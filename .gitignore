@@ -3,6 +3,8 @@
 
 # Do not ignore those files
 
+!*.log
+!*.sh
 !*.md
 !Makefile
 !makefile

@@ -1,5 +1,4 @@
 #include <iostream>    // cout, cin, getline, std::size_t
-
 #include "histo.hpp"   // Internal API
 /*****************************************************************************/
 namespace ilrd_rd141
