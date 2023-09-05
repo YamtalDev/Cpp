@@ -1,3 +1,17 @@
+*
+!/**/
+
+# Do not ignore those files
+
+!*.md
+!Makefile
+!makefile
+!.gitognore
+!*.cpp
+!*.hpp
+!*.c
+!*.h
+
 # Prerequisites
 *.d
 
