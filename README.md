@@ -9,13 +9,14 @@ programming concepts. Each implementation is accompanied by a set of files that
 make it easy to build, run, debug, and clean the project.
 
 ## Getting Started
+
 * If you'd like to use one of the projects in this repository, follow these simple steps:
 
 ```shell
-$ git clone https://github.com/YamtalDev/D.E.L.T-BashTools.git
-$ cd D.E.L.T-BashTools
-$ cd src
-$ cd desired_implementation
+$ git clone https://github.com/YamtalDev/Cpp
+$ cd Cpp/src
+$ cd `desired_implementation`
+$ make && make run
 
 ```
 
@@ -27,6 +28,7 @@ Inside the implementation folder, you'll find the following files:
 - Makefile: A Makefile to automate compilation, running, debugging, and cleaning.
 
 ## Usage
+
 To compile, run, debug, or clean the project, you can use the provided Makefile 
 with the following commands:
 
