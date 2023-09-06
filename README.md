@@ -13,9 +13,9 @@ make it easy to build, run, debug, and clean the project.
 * If you'd like to use one of the projects in this repository, follow these simple steps:
 
 ```shell
-$ git clone https://github.com/YamtalDev/Cpp
+$ git clone https://github.com/YamtalDev/Cpp.git
 $ cd Cpp/src
-$ cd `desired_implementation`
+$ cd "desired_implementation"
 $ make && make run
 
 ```
